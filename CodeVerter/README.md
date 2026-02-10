@@ -16,12 +16,6 @@
 
 ---
 
-## 📸 Preview
-
-![CodeVerter Screenshot](https://via.placeholder.com/1200x600/1a1a2e/00d4ff?text=CodeVerter+Preview)
-
----
-
 ## ✨ Features
 
 🎯 **29+ Programming Languages Supported**
@@ -274,24 +268,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## 🙏 Acknowledgments
-
-- [Anthropic](https://www.anthropic.com/) for Claude AI
-- [Lucide React](https://lucide.dev/) for beautiful icons
-- [Tailwind CSS](https://tailwindcss.com/) for styling
-- [React](https://reactjs.org/) for the framework
-
 ---
-
-## 📧 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/codeverter](https://github.com/yourusername/codeverter)
-
----
-
 <div align="center">
 
 ### ⭐ Star this repo if you find it helpful!
